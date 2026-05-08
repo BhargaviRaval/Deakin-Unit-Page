@@ -1,19 +1,19 @@
-
-
-h1 {
-  font-size: 40px;
-  font-family: Arial
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
 }
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #d3d3d3;
+}
+
 h2 {
-  font-size: 25px;
-  font-family: Arial
+  margin-top: 20px;
 }
-h3 {
-  font-family: Arial
-}
-p {
-  font-size: 14px;
-  font-family: Arial
-}
-
-
